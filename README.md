@@ -14,6 +14,8 @@ Alternatively, they can be loaded directly using
 
 - api1: http://localhost:8080/swagger-ui/?urls.primaryName=api1
 - api2: http://localhost:8080/swagger-ui/?urls.primaryName=api1
+- flight: http://localhost:8080/swagger-ui/?urls.primaryName=flight
+
 
 If you want to see some logging, you may prepend the command with `RUST_LOG=debug` as shown below.
 
